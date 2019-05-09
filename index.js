@@ -3,6 +3,8 @@ Fixed issue1
 Fixed issue2
 Fixed isue 4
 Fixed issue 5
+
+Fixing issue 6
 import React, { Component } from 'react'
 import { Platform, NativeModules } from 'react-native'
 import { Route, Switch } from 'react-router'

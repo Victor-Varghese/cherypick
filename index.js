@@ -1,3 +1,5 @@
+
+Fixed issue1
 import React, { Component } from 'react'
 import { Platform, NativeModules } from 'react-native'
 import { Route, Switch } from 'react-router'

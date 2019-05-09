@@ -1,5 +1,6 @@
 
 Fixed issue1
+Fixed issue2
 import React, { Component } from 'react'
 import { Platform, NativeModules } from 'react-native'
 import { Route, Switch } from 'react-router'
